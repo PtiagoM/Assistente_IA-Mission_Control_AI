@@ -10,7 +10,7 @@ Sistema inteligente de monitoramento para controle básico de uma missão espaci
 
 **Modelo de IA utilizado:** Llama 3.2 1B via Ollama
 
-**Vídeo de demonstração:** INSERIR LINK DO VÍDEO AQUI
+**Vídeo de demonstração:** https://youtu.be/3P1WOgpa5zY?si=1vVsHdHlTkOprvqo
 
 ---
 
