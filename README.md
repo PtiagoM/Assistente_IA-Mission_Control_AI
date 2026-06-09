@@ -138,26 +138,29 @@ Além disso, o Cockpit Geral exibe o status do módulo de IA como uma prioridade
 
 ## Demonstração do sistema
 
-Adicione os prints reais do sistema funcionando na pasta `assets/`.
-
 ### Configuração da missão com IA
 
+<img width="1918" height="1005" alt="image" src="https://github.com/user-attachments/assets/875dc044-5919-40e5-83ad-11c389f7d5ba" />
 
 
 
 ### Cockpit Geral com alerta operacional
+
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/3b397365-39a0-43da-8f8a-51a79b4d1d47" />
 
 
 
 
 ### AI Mission Advisor com prompt e resposta da IA
 
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/1848666e-ec2a-49fc-97bc-73c8cde9b8f4" />
 
 
 
-### Relatório ou cenário crítico da missão
+### Relatório da missão
 
-![Relatório da missão](assets/relatorio_missao.png)
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/77ce1009-c9b2-4461-9ce6-5bf40d1e4641" />
+
 
 ---
 
@@ -167,13 +170,9 @@ Adicione os prints reais do sistema funcionando na pasta `assets/`.
 
 Certifique-se de ter o Python instalado.
 
-Depois, na raiz do projeto, instale as dependências necessárias:
+Depois, na raiz do projeto, instale as dependências necessárias.
 
-```bash
-pip install -r requirements.txt
-```
-
-Caso o projeto não utilize `requirements.txt`, execute diretamente o arquivo principal.
+Execute diretamente o arquivo principal.
 
 ---
 
